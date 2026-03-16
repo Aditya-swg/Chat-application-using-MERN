@@ -2,7 +2,7 @@
 
 
 
-Highlights:
+Features:
 
 - 🔐 Custom JWT Authentication (no 3rd-party auth)
 - ⚡ Real-time Messaging via Socket.io
@@ -13,8 +13,7 @@ Highlights:
 - 🧰 REST API with Node.js & Express
 - 🧱 MongoDB for Data Persistence
 - 🚦 API Rate-Limiting powered by Arcjet
-- 🎨 Beautiful UI with React, Tailwind CSS & DaisyUI
-- 🧠 Zustand for State Management
+- 🎨 Beautiful UI with React & Tailwind CSS
 
 ---
 
